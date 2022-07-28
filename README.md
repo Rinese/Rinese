@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Rinese
-- 👀 Working on Web Development.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 Working on Web Development
+- 📃 Writing Words, Compiling Code
+- 👾 Overthinks thinking to not overthink 😊
 
 <!---
 Rinese/Rinese is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
